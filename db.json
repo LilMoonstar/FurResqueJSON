@@ -39,5 +39,58 @@
       "sessionToken": "sesion_token_3",
       "profilePicture": "https://ibb.co/jVw6vF4"
     }
+  ],
+
+  "posts": [
+    {
+      "Id": 1,
+      "user_id": "000000001",
+      "Title": "Titulo de prueba",
+      "Content": "Hola, estoy probando esta página",
+      "SilverTokens": 0,
+      "DiamondTokens": 0,
+      "GoldTokens": 0,
+      "is_reply": false,
+      "LikedByUser": false,
+      "IsUserPost": true,
+      "imagen_id": null
+    },
+    {
+      "Id": 2,
+      "user_id": "000000002",
+      "Title": "Mi juego favorito",
+      "Content": "Me encanta Undertale :)",
+      "SilverTokens": 0,
+      "DiamondTokens": 0,
+      "GoldTokens": 0,
+      "is_reply": false,
+      "LikedByUser": true,
+      "IsUserPost": true,
+      "imagen_id": 1
+    },
+    {
+      "Id": 3,
+      "user_id": "000000003",
+      "Title": "La mejor criatura",
+      "Content": "Adoro los michis",
+      "SilverTokens": 0,
+      "DiamondTokens": 0,
+      "GoldTokens": 0,
+      "is_reply": false,
+      "LikedByUser": false,
+      "IsUserPost": true,
+      "imagen_id": 2
+    }
+  ],
+
+   "imagenes": [
+    {
+      "URL": "https://pm1.aminoapps.com/8143/70bde47a50de58b1e29f1bafc7dbf4703cbbb48dr1-1800-1800v2_hq.jpg",
+      "post_id": 1
+    },
+    {
+      "URL": "https://krita-artists.org/uploads/default/original/3X/1/9/19b90101906799784123bae0eb5edb3180bb8590.png",
+      "post_id": 2
+    }
   ]
 }
