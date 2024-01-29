@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "userId": "000000001",
+      "username": "Naru2712",
+      "password": "191019",
+      "email": "Naru@gmail.com",
+      "birthDate": "2002-10-25",
+      "silverTokens": 0,
+      "diamondTokens": 0,
+      "goldTokens": 0,
+      "itsYou": 0,
+      "sessionToken": "sesion_token_1",
+      "profilePicture": "https://ibb.co/261z79w"
+    },
+    {
+      "userId": "000000002",
+      "username": "Determination",
+      "password": "Staydetermined",
+      "email": "Santi@gmail.com",
+      "birthDate": "2002-10-24",
+      "silverTokens": 0,
+      "diamondTokens": 0,
+      "goldTokens": 0,
+      "itsYou": 0,
+      "sessionToken": "sesion_token_2",
+      "profilePicture": "https://ibb.co/yk4shkX"
+    },
+    {
+      "userId": "000000003",
+      "username": "KekkoKat",
+      "password": "Taeycheto",
+      "email": "Marta@gmail.com",
+      "birthDate": "2002-09-24",
+      "silverTokens": 0,
+      "diamondTokens": 0,
+      "goldTokens": 0,
+      "itsYou": 0,
+      "sessionToken": "sesion_token_3",
+      "profilePicture": "https://ibb.co/jVw6vF4"
+    }
+  ]
+}
